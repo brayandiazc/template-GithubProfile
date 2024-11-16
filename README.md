@@ -8,12 +8,6 @@ Soy un **[tu rol profesional, ejemplo: Desarrollador Full Stack | Especialista e
 
 Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis habilidades y crecer profesionalmente.
 
-## 🌟 **Perfil Profesional**
-
-- 📌 **Habilidades principales:** [Frontend | Backend | Desarrollo de APIs | Bases de Datos].
-- 🚀 **Proyectos destacados:** Desarrollo de [tipo de proyectos, ejemplo: aplicaciones web, plataformas SaaS, sistemas escalables].
-- 🌱 **Intereses actuales:** [aprendizaje continuo, tecnologías específicas, industrias clave].
-
 ## 💻 **Tecnologías Clave**
 
 ### 🧑‍💻 Lenguajes de Programación
@@ -39,20 +33,6 @@ Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis hab
 ### 📝 Sistema de Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-## 🚀 **Proyectos Destacados**
-
-- **[Nombre del Proyecto 1](#):** Breve descripción del proyecto (problema que resolvió, tecnologías usadas y el impacto).
-- **[Nombre del Proyecto 2](#):** Breve descripción del proyecto (resaltar un logro clave).
-- **[Nombre del Proyecto 3](#):** Breve descripción del proyecto (cómo destacó técnicamente).
-
-## 🌱 **Objetivo Profesional**
-
-Busco una posición como **[tu objetivo laboral, ejemplo: Desarrollador Backend | Frontend Developer | Full Stack Engineer]** en una empresa donde pueda:
-
-- Aplicar mis conocimientos técnicos para resolver desafíos reales.
-- Colaborar con un equipo multidisciplinario.
-- Crecer profesionalmente y contribuir al éxito de los proyectos.
 
 ## 📫 **Contacto**
 
